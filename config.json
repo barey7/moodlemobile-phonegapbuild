@@ -1,7 +1,7 @@
 {
     "app_id" : "mv.edu.FSVirtual",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "appname": "FSVirtual",
+    "desktopappname": "FSVirtual",
     "versioncode" : "1",
     "versionname" : "3.4.2",
     "cache_expiration_time" : 300000,
@@ -11,9 +11,9 @@
     "wsextservice" : "local_mobile",
     "demo_sites": {},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "FSVirtual",
     "siteurl": "http://FSVirtual.edu.mv",
-    "multisitesdisplay": "select",
+    "multisitesdisplay": "false",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
